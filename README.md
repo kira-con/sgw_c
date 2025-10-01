@@ -29,4 +29,5 @@ Webサービス、Androidアプリの個人開発をしている「きらこん�
 　点字を知らなくても読める、点字変換アプリ。<br />
 　点字の勉強にも。
 
- 
+# 関連リンク
+<a href="https://x.com/kira_con0916" target="_blank">@kira_con0916</a>(X)
